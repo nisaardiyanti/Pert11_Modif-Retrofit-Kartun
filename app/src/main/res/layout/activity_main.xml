@@ -14,5 +14,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-    //Nomersatu untuk tampilan view 
+    //Nomersatu untuk tampilan view pada komponen view RecycleView
 </androidx.constraintlayout.widget.ConstraintLayout>
